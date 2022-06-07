@@ -1,3 +1,4 @@
+#делаю и сохраняю скриншот в png
 from selenium import webdriver
 import time 
 
